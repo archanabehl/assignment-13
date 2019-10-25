@@ -1,0 +1,14 @@
+{
+  "name": "unit-tests",
+  "version": "0.0.1",
+  "description": "A series of unit tests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "Esteban Hernandez",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
